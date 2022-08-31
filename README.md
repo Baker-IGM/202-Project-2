@@ -7,12 +7,16 @@
 
 ### Description
 
-_A brief explanation of your project_
+_A brief explanation of your project. Make sure to include details about how to play and win your game_
 
 ### User Responsibilities
 
 -   _What the user will need to do in the program_
 -   _Include user interaction: keys to press, mouse buttons to click/drag, etc._
+
+### You Additions
+
+_List out what you added to your game to make it different for you_
 
 ### Known Issues
 
